@@ -7,7 +7,7 @@ class SplashModel {
 
     fun excuteInModel(inputString: String, inputInt: Int, listener: OnModelBackListener) {
 
-        Log.e("9527", "excuteInModel: $inputString   $inputInt")
+        Log.e("9527", " excuteInModel: $inputString   $inputInt")
         listener.onModelBack()
     }
 }
