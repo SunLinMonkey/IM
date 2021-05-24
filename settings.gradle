@@ -1,2 +1,3 @@
+include ':myHttp'
 include ':app'
 rootProject.name = "IM_HX"
